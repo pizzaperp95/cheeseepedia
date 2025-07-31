@@ -5,7 +5,7 @@ tags = ["Animatronics"]
 categories = ["ShowBiz Pizza Place"]
 startDate = ""
 endDate = "0000-00-00"
-contributors = ["CECMentor","Livelycheese","Stripes"]
+contributors = ["CECMentor","Livelycheese","Stripes","The Nefarious Pizza Perpetrator"]
 citations = []
 pageThumbnailFile = "QTOP5vVLa9baQkq1zYvp.avif"
 manufacturer = "Creative Engineering"
@@ -27,22 +27,23 @@ The bot is a large gorilla in formal attire. He has a golden tuxedo with a black
 
 The bot features sixteen movements in total.
 No movements were removed during Concept Unification, unlike {{< wiki-link "Rolfe Dewolfe & Earl Schmerle (Animatronic)" >}} and {{< wiki-link "Dook Larue (Animatronic)" >}}.
+All movements are on the top drawer.
 
-  Movement
-  -----------------
-  Mouth
-  Left eyelid
-  Right eyelid
-  Right eye
-  Left eye
-  Head right
-  Head left
-  Head tip right
-  Head tip left
-  Head up
-  Left arm swing
-  Right arm swing
-  Left elbow
-  Right elbow
-  Fot tap
-  Body lean
+| Bit# | Movement        |
+|------|-----------------|
+| 41   | Left Eyelid     |
+| 42   | Right Eyelid    |
+| 43   | Eyes Left       |
+| 44   | Eyes Right      |
+| 45   | Mouth           |
+| 51   | Head Tip Left   |
+| 52   | Head Tip Right  |
+| 53   | Head Up         |
+| 54   | Head Left       |
+| 55   | Head Right      |
+| 57   | Left Arm Swing  |
+| 58   | Right Arm Swing |
+| 59   | Left Elbow      |
+| 60   | Right Elbow     |
+| 61   | Foot Tap        |
+| 62   | Body Lean       |
